@@ -14,7 +14,7 @@ public class ContaTerminal {
 		double saldo;
 				
 		// Exibir mensagens pro user
-		System.out.println("Obrigado por nos escolher como seu banco favorito!");
+		System.out.println("Obrigado por nos escolher para ser o seu banco!!");
 
 		//Obter os valores do Scanner
 		
